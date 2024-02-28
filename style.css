@@ -86,6 +86,10 @@ button{
     font-size: 16px;
 }
 
+button > a {
+    color: white;
+}
+
 .hire {
     margin-left: 2rem;
 }
