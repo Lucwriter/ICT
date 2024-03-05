@@ -11,7 +11,7 @@
     justify-content: space-between; 
     align-items: center;
     box-shadow: rgba(148, 148, 152, 0.25) 0px 50px 100px -20px, rgba(154, 150, 150, 0.3) 0px 30px 60px -30px;
-    position: fixed;
+    position: fixed; 
     margin-top: -1rem;
     
 }
@@ -71,7 +71,7 @@ h2{
  margin-top: 5rem;
 }
 
-#grap{
+ #grap{
     color: white;
     font-size: 30px; 
     padding: 40px; 
@@ -79,11 +79,12 @@ h2{
 button{
     border: 1px solid yellow;
     border-radius: 19px;
-    padding: 20px;
-    /* margin-left: 0.5rem; */
+    padding: 10px;
     color: rgb(250, 247, 247);
     background-color: black;
     font-size: 16px;
+    margin-top: 1rem ;
+    margin-left: 2rem;
 }
 
 button > a {
@@ -165,7 +166,6 @@ h4{
 /* contact style */
 
 #icons{
-    color: rgb(245, 239, 239);
     font-size: 70px;
     margin:  2rem;
     padding: 1rem 1rem;

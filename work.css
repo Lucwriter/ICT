@@ -1,0 +1,13 @@
+.id{
+    background-color: aqua;
+    width: 20%;
+    padding: 30px;
+    margin: 30px;
+    border: 15px solid gray;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+p{
+    text-align: center;
+}
